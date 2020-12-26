@@ -1,3 +1,3 @@
 # GlobalAIHubPythonHomework
 <p>This repository contains homeworks</p> </br>
-<i><b>Introduction to Python<b> - Muhammet Ali Bişgin 2020</i>
+<i><b>Introduction to Python by Global AI Hub - Muhammet Ali Bişgin 2020</b></i>
